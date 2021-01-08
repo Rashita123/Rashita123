@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Rashita here!</h1>
-<p>Technology <strike>was uniting</strike> is controlling people! Engineers started it and only we can turn the table to elevate the positivity in technology!</p>
+<p>Ideas --> Implementation = Technology</p>
 
 ![Profile views](https://gpvc.arturio.dev/Rashita123) 
 - 🌱 I’m currently learning Frontend 
