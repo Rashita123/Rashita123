@@ -1,5 +1,6 @@
 ## Hi 👋, Rashite here!
-![](https://www.linkedin.com/in/rashita-mehta-350346197)
+![](https://drive.google.com/file/d/1WEyDXczLa4u_7_VUJabOhz7WD4_ourRw/view?usp=sharing)
+<img src='https://drive.google.com/file/d/1WEyDXczLa4u_7_VUJabOhz7WD4_ourRw/view?usp=sharing' alt='Banner-image'>
 
 ![Profile views](https://gpvc.arturio.dev/Rashita123) 
 - 🌱 I’m currently learning Frontend 
