@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Rashita here!</h1>
-<p>Ideas --> Implementation = Technology</p>
+<p align="center">Ideas --> Implementation = Technology</p>
 
 ![Profile views](https://gpvc.arturio.dev/Rashita123) 
 - 🌱 I’m currently learning Frontend 
