@@ -1,4 +1,4 @@
-<center>## Hi 👋, Rashite here!</center>
+<h1 align="center">Hi 👋, Rashite here!</h1>
 
 ![Profile views](https://gpvc.arturio.dev/Rashita123) 
 - 🌱 I’m currently learning Frontend 
