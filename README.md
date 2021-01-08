@@ -1,4 +1,5 @@
-### Hi there 👋, Welcome to my profile
+## Hi 👋, Rashite here!
+<hr>
 ![](https://www.linkedin.com/in/rashita-mehta-350346197)
 
 Skills: VUE JS / REACT / JS / HTML / CSS
