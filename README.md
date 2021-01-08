@@ -1,5 +1,5 @@
 ## Hi 👋, Rashite here!
-<img src='https://github.com/Rashita123/Rashita123/blob/main/Technical%20Writer%2C%20Developer.png' alt='Banner-image'>
+<img src='https://github.com/Rashita123/Rashita123/blob/main/Technical%20Writer%2C%20Developer.png' alt='Banner-image' height='100' style="border-radius: 8px;">
 
 ![Profile views](https://gpvc.arturio.dev/Rashita123) 
 - 🌱 I’m currently learning Frontend 
