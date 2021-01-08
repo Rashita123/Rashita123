@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, Rashite here!</h1>
+<h1 align="center">Hi 👋, Rashita here!</h1>
+<p align="center">Technology <strike>was uniting </strike>is controlling people!</p>
 
 ![Profile views](https://gpvc.arturio.dev/Rashita123) 
 - 🌱 I’m currently learning Frontend 
