@@ -1,11 +1,10 @@
 ## Hi 👋, Rashite here!
-<img src='https://github.com/Rashita123/Rashita123/blob/main/Technical%20Writer%2C%20Developer.png' alt='Banner-image' height='300' style="border-radius: 8px;">
 
 ![Profile views](https://gpvc.arturio.dev/Rashita123) 
 - 🌱 I’m currently learning Frontend 
 - 🤔 I’m looking for help with Backend 
+- ⚡ Fun fact: I have a crush on Swags ;-)
 - 📫 How to reach me: [E-mail](mehta.rashita18@gmail.com) 
-- ⚡ Fun fact: I have a crush on Swags ;-) 
 
 ### My Skill Set<br>
 <img src='https://www.svgrepo.com/show/197982/html.svg' alt='HTML5' height='40'>  <img src='https://www.svgrepo.com/show/303481/css-3-logo.svg' alt='CSS3' height='40'>  <img src='https://www.svgrepo.com/show/303206/javascript-logo.svg' alt='JavScript' height='50'>  <img src='https://www.svgrepo.com/show/303500/react-1-logo.svg' alt='React' height='50'> <img src='https://www.svgrepo.com/show/32690/java.svg' alt='JAVA' height='50'>  <img src='https://www.svgrepo.com/show/217753/github.svg' alt='Github' height='50'>  <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' alt='SQL' height='50'>  <img src='https://www.svgrepo.com/show/184138/linux.svg' alt='Linux' height='50'>  <img src='https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png' alt='Python' height='50'>  <img src='https://img.icons8.com/color/2x/c-plus-plus-logo.png' alt='C++' height='50'> 
