@@ -1,4 +1,4 @@
-## Hi 👋, Rashite here!
+<center>## Hi 👋, Rashite here!</center>
 
 ![Profile views](https://gpvc.arturio.dev/Rashita123) 
 - 🌱 I’m currently learning Frontend 
