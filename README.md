@@ -7,7 +7,7 @@
 - 📫 How to reach me: [E-mail](mehta.rashita18@gmail.com) 
 - ⚡ Fun fact: I have a crush on Swags ;-) 
 
-###My Skill Set
+### My Skill Set<br>
 <img src='https://www.svgrepo.com/show/197982/html.svg' alt='HTML5' height='40'>
 <img src='https://www.svgrepo.com/show/303481/css-3-logo.svg' alt='CSS3' height='40'>  
 <img src='https://www.svgrepo.com/show/303206/javascript-logo.svg' alt='JavScript' height='40'>  
