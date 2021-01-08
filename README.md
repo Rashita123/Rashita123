@@ -22,8 +22,8 @@
  <li><a href="https://rashitamehta.hashnode.dev/do-you-understand-call-stacks-well">Do you understand Call Stacks well?</a></li><br>
 </ul>
 
-<a href="https://rashitamehta.hashnode.dev">My Blog Website</a>
-<a href="https://rashitamehta.netlify.app">Personal Porfolio Website</a>
+<a href="https://rashitamehta.hashnode.dev"><h2>My Blog Website</h2></a>
+<a href="https://rashitamehta.netlify.app"><h2>Personal Porfolio Website</h2></a>
 
 ### Let's Connect
 [<img src='https://www.svgrepo.com/show/217753/github.svg' alt='github' height='40'>](https://github.com/Rashita123)  [<img src='https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png' alt='dev' height='40'>](https://rashitamehta.hashnode.dev)  [<img src='https://www.svgrepo.com/show/217760/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rashita-mehta-350346197/)  [<img src='https://www.svgrepo.com/show/183608/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rashitamehta) 
