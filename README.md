@@ -12,12 +12,15 @@
 
 
 
-[<img src='https://www.svgrepo.com/show/217753/github.svg' alt='github' height='40'>](https://github.com/Rashita123)  [<img src='https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png' alt='dev' height='40'>](https://rashitamehta.hashnode.dev)  [<img src='https://www.svgrepo.com/show/217760/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rashita-mehta-350346197/)  [<img src='https://www.svgrepo.com/show/183608/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rashitamehta)  
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashita123&show_icons=true)  
 
  ### My Recent Blogs
  <ul>
  <li><a href="https://rashitamehta.hashnode.dev/accepting-linkedin-connection-requests-using-javascript">Accepting Linkedin Connection requests using JavaScript</a></li>
- <li>[Do you understand Call Stacks well?](https://rashitamehta.hashnode.dev/do-you-understand-call-stacks-well)</li>
+ <li><a href="https://rashitamehta.hashnode.dev/do-you-understand-call-stacks-well">Do you understand Call Stacks well?</a></li>
 </ul>
+
+### Connect with me
+[<img src='https://www.svgrepo.com/show/217753/github.svg' alt='github' height='40'>](https://github.com/Rashita123)  [<img src='https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png' alt='dev' height='40'>](https://rashitamehta.hashnode.dev)  [<img src='https://www.svgrepo.com/show/217760/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rashita-mehta-350346197/)  [<img src='https://www.svgrepo.com/show/183608/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rashitamehta) 
