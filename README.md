@@ -18,6 +18,6 @@
 
  ### My Recent Blogs
  <ul>
- <li>[Accepting Linkedin Connection requests using JavaScript](https://rashitamehta.hashnode.dev/accepting-linkedin-connection-requests-using-javascript)</li>
+ <li><a href="https://rashitamehta.hashnode.dev/accepting-linkedin-connection-requests-using-javascript">Accepting Linkedin Connection requests using JavaScript</a></li>
  <li>[Do you understand Call Stacks well?](https://rashitamehta.hashnode.dev/do-you-understand-call-stacks-well)</li>
 </ul>
