@@ -1,5 +1,5 @@
 ## Hi 👋, Rashite here!
-<img src='https://drive.google.com/file/d/1WEyDXczLa4u_7_VUJabOhz7WD4_ourRw/view?usp=sharing' alt='Banner-image'>
+<img src='https://www.canva.com/design/DAESqvnSGYw/GuVyDYkdTRbrm81sBbYGHg/view?utm_content=DAESqvnSGYw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton' alt='Banner-image'>
 
 ![Profile views](https://gpvc.arturio.dev/Rashita123) 
 - 🌱 I’m currently learning Frontend 
