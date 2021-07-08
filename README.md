@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Rashita123) 
 - 🌱 I’m currently learning Frontend <br>
-- 🤔 I’m looking for help with Backend <br>
+- 🤔 I’m looking for projects to collaborate <br>
 - ⚡ Fun fact: I have a crush on Swags ;-)<br>
 - 📫 How to reach me: [E-mail](mehta.rashita18@gmail.com) 
 
