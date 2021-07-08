@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Frontend <br>
 - 🤔 I’m looking for projects to collaborate <br>
 - ⚡ Fun fact: I have a crush on Swags ;-)<br>
-- 📫 How to reach me: [E-mail](mehta.rashita18@gmail.com) 
+- 📫 Reach me: mehta.rashita18@gmail.com
 
 ### My Skill Set<br>
 <img src='https://www.svgrepo.com/show/197982/html.svg' alt='HTML5' height='40'>     <img src='https://www.svgrepo.com/show/303481/css-3-logo.svg' alt='CSS3' height='40'>     <img src='https://www.svgrepo.com/show/303206/javascript-logo.svg' alt='JavScript' height='50'>     <img src='https://www.svgrepo.com/show/303500/react-1-logo.svg' alt='React' height='50'>    <img src='https://www.svgrepo.com/show/32690/java.svg' alt='JAVA' height='50'>     <img src='https://www.svgrepo.com/show/217753/github.svg' alt='Github' height='50'>     <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' alt='SQL' height='50'>     <img src='https://www.svgrepo.com/show/184138/linux.svg' alt='Linux' height='50'>     <img src='https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png' alt='Python' height='50'>     <img src='https://img.icons8.com/color/2x/c-plus-plus-logo.png' alt='C++' height='50'> 
