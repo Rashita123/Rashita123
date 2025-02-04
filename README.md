@@ -29,6 +29,5 @@
 <a href="https://rashitamehta.hashnode.dev">Blog Website</a>
 
 <a href="https://rashitamehta.netlify.app">Personal Porfolio Website</a>
-[![Peerlist](https://github-readme-badge.peerlist.io/api/rashitamehta?style=plastic)](https://peerlist.io/rashitamehta)
 
 
